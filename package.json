@@ -1,0 +1,19 @@
+{
+  "name": "sails and passport",
+  "private": false,
+  "version": "0.0.0",
+  "description": "an example Sails application",
+  "dependencies": {
+    "sails": "0.8.894",
+    "passport-local": "~0.1.6",
+    "passport": "~0.1.16"
+  },
+  "scripts": {
+    "start": "node .app.js",
+    "debug": "node debug .app.js"
+  },
+  "main": ".app.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT"
+}
